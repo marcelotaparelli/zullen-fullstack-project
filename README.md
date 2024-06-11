@@ -17,3 +17,5 @@ A próxima etapa foi a criação dos Endpoints através de um Serviço e do Cont
 
 <img src="controller.jpg">
 
+<img src="api.jpg">
+
