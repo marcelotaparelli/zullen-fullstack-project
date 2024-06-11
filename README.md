@@ -13,3 +13,7 @@ Com os Modelos definidos, criei o Contexto do Banco de Dados usando o Entity Fra
 
 <img src="dbContext.jpg">
 
+A próxima etapa foi a criação dos Endpoints através de um Serviço e do Controlador e suas respectivas lógicas.
+
+<img src="controller.jpg">
+
