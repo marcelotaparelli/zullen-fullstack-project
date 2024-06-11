@@ -29,7 +29,7 @@ Esta foi a primeira etapa do denvolvimento.
 
 <h3>Transferência do Frontend para Blazor, criação de um novo Model e Banco de Dados para os afazeres e criação do sistema de autenticação/autorização</h3>
 
-Utilizei fontes e cores condizentes com o logo da empresa buscando harmonizar o design da interface. Por fim, o produto está como segue.
+Utilizei fontes e cores condizentes com o logo da empresa buscando harmonizar o design da interface. Nesta etapa, o produto está como segue.
 
 <img src="blazor-login.jpg">
 
@@ -43,5 +43,5 @@ Utilizei fontes e cores condizentes com o logo da empresa buscando harmonizar o 
 
 <img src="todo.gif">
 
-
+<h3>A próxima etapa será implementar uma área de agendamento de vagas para o contraturno</h3>
 
