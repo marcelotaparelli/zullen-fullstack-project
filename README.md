@@ -41,5 +41,7 @@ Utilizei fontes e cores condizentes com o logo da empresa buscando harmonizar o 
 
 <img src="editar.jpg">
 
+<img src="todo.gif">
+
 
 
