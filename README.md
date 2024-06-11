@@ -9,7 +9,7 @@ Segui o modelo de uma Classe "Resposta de Serviço" no qual este dados seriam in
 
 <img src="response.jpg">
 
-Com os Modelos definidos, criei o Contexto do Banco de Dados usando o Entity Framework, configurei a conexão com o Banco de Dados no appsettings.json adicionando os devidos serviços em Program.cs e realizei as migrações.
+Com os Modelos definidos, criei o Contexto do Banco de Dados usando o Entity Framework, configurei a conexão com o Banco de Dados (SQL Server) no appsettings.json adicionando os devidos serviços em Program.cs e realizei as migrações.
 
 <img src="dbContext.jpg">
 
@@ -29,7 +29,7 @@ Esta foi a primeira etapa do denvolvimento.
 
 <h3>Transferência do Frontend para Blazor, criação de um novo Model e Banco de Dados para os afazeres e criação do sistema de autenticação/autorização</h3>
 
-Utilizei fontes e cores condizentes com o logo da empresa buscando harmonizar o design da interface. Nesta etapa, o produto está como segue.
+Utilizei fontes e cores condizentes com o logo da empresa buscando harmonizar o design da interface. Nesta etapa, o produto está como segue rodando em Docker Containers.
 
 <img src="blazor-login.jpg">
 
