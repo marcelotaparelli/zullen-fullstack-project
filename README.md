@@ -1,5 +1,5 @@
 # zullen-fullstack-project
-<h3>Projeto Fullstack para um contraturno escolar feito em .NET, Angular e, posteriormente, em Blazor. (repositório privado)</h3>
+<h3>Projeto Fullstack (CRUD) para um contraturno escolar feito em .NET, Angular e, posteriormente, em Blazor. (repositório privado)</h3>
 
 Primeiramente, busquei ver as necessidades da usuária do sistema e quais informações seriam mais relevantes para armazenar. Com isso, pude definir meu Modelo/Classe/Entidade e suas propriedades.
 
@@ -18,4 +18,28 @@ A próxima etapa foi a criação dos Endpoints através de um Serviço e do Cont
 <img src="controller.jpg">
 
 <img src="api.jpg">
+
+Para o Frontend inicial utilizei Angular.
+
+<img src="angular.jpg">
+
+Esta foi a primeira etapa do denvolvimento.
+
+<br><br><br>
+
+<h3>Transferência do Frontend para Blazor, criação de um novo Model e Banco de Dados para os afazeres e criação do sistema de autenticação/autorização</h3>
+
+Utilizei fontes e cores condizentes com o logo da empresa buscando harmonizar o design da interface. Por fim, o produto está como segue.
+
+<img src="blazor-login.jpg">
+
+<img src="home.jpg">
+
+<img src="adicionar.jpg">
+
+<img src="detalhes.jpg">
+
+<img src="editar.jpg">
+
+
 
