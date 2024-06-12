@@ -47,8 +47,11 @@ Utilizei fontes e cores condizentes com o logo da empresa buscando harmonizar o 
 
 Na fase presente, estou na etapa de pesquisa das maneiras de implementar o caledário e também as modificações que precisarei realizar no Model para atender as necessidades da aplicação.
 
-A princípio vou precisar:
-    - adicionar uma propriedade booleana (ativo/inativo) para os clientes para saber quais mostrar no calendário.
-    - modificar a propriedade "Dias/semana" de um int para um Enum com as opções de segunda a sexta-feira, com a possibilidade de armazenar mais de um valor ou dia.
-    - implementar a lógica para mostrar as crianças no período e dias corretos dentro do calendário.
+A princípio vou precisar:<br>
+<ul>
+    <li>adicionar uma propriedade booleana (ativo/inativo) para os clientes para saber quais mostrar no calendário</li>
+    <li>modificar a propriedade "Dias/semana" de um int para um Enum com as opções de segunda a sexta-feira, com a possibilidade de armazenar mais de um valor ou dia</li>
+    <li>implementar a lógica para mostrar as crianças no período e dias corretos dentro do calendário</li>
+</ul>
+
 
