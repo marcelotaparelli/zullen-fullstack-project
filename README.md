@@ -55,12 +55,7 @@ Para o calendário estou testando o repositório do <a href="https://github.com/
 
 <img src="calendario.jpg">
 
-A princípio vou precisar:<br>
-<ul>
-    <li>adicionar uma propriedade booleana (ativo/inativo) para os clientes para saber quais mostrar no calendário</li>
-    <li>modificar a propriedade "Dias/semana" de um int para um Enum com as opções de segunda a sexta-feira, com a possibilidade de armazenar mais de um valor ou dia</li>
-    <li>implementar a lógica para mostrar as crianças no período e dias corretos dentro do calendário</li>
-</ul>
+
 
 
 
