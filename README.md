@@ -55,7 +55,7 @@ Para o calendário estou testando o repositório do <a href="https://github.com/
 
 <img src="calendario.jpg">
 
-
+<li>O próximo passo será fazer a lógica para as crianças aparecerem nos dias da semana cadastrados</li>
 
 
 
