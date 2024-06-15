@@ -51,7 +51,7 @@ Alterei a propriedade "dias" do tipo "integer" (que antes armazenava o numero de
 
 <img src="diasDaSemana.jpg">
 
-Para o calendário estou testando o repositório do <a href="https://github.com/danheron/Heron.MudCalendar/">danheron</a>:
+Para o calendário estou testando o repositório do <a href="https://github.com/danheron/Heron.MudCalendar/">danheron</a> e já adicionei a lógica para as crianças aparecerem no calendário de acordo com o turno cadastrado:
 
 <img src="calendario.jpg">
 
