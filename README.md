@@ -45,7 +45,15 @@ Utilizei fontes e cores condizentes com o logo da empresa buscando harmonizar o 
 
 <h3>A próxima etapa será implementar uma área de agendamento de vagas para o contraturno</h3>
 
-Na fase presente, estou na etapa de pesquisa das maneiras de implementar o caledário e também as modificações que precisarei realizar no Model para atender as necessidades da aplicação.
+Na fase presente, estou na etapa de pesquisa e implemetações testes do caledário e também das modificações no Model para atender as necessidades da aplicação.
+
+Alterei a propriedade "dias" do tipo "integer" (que antes armazenava o numero de dias por semana que a criança viria) para uma Lista de "strings" contendo os dias da semana que criança virá.
+
+<img src="diasDaSemana.jpg">
+
+Para o calendário estou testando o repositório do <a href="https://github.com/danheron/Heron.MudCalendar/">danheron</a>:
+
+<img src="calendario.jpg">
 
 A princípio vou precisar:<br>
 <ul>
@@ -53,5 +61,8 @@ A princípio vou precisar:<br>
     <li>modificar a propriedade "Dias/semana" de um int para um Enum com as opções de segunda a sexta-feira, com a possibilidade de armazenar mais de um valor ou dia</li>
     <li>implementar a lógica para mostrar as crianças no período e dias corretos dentro do calendário</li>
 </ul>
+
+
+
 
 
