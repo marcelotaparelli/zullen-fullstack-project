@@ -43,9 +43,7 @@ Utilizei fontes e cores condizentes com o logo da empresa buscando harmonizar o 
 
 <img src="todo.gif">
 
-<h3>A próxima etapa será implementar uma área de agendamento de vagas para o contraturno</h3>
-
-Na fase presente, estou na etapa de pesquisa e implemetações testes do caledário e também das modificações no Model para atender as necessidades da aplicação.
+<h3>A etapa presente consiste em implementar uma área de agendamento de vagas para o contraturno</h3>
 
 Alterei a propriedade "dias" do tipo "integer" (que antes armazenava o numero de dias por semana que a criança viria) para uma Lista de "strings" contendo os dias da semana que criança virá.
 
