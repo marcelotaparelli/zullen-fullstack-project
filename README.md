@@ -43,6 +43,8 @@ Utilizei fontes e cores condizentes com o logo da empresa buscando harmonizar o 
 
 <img src="todo.gif">
 
+<br><br><br>
+
 <h3>A etapa presente consiste em implementar uma área de agendamento de vagas para o contraturno</h3>
 
 Alterei a propriedade "dias" do tipo "integer" (que antes armazenava o numero de dias por semana que a criança viria) para uma Lista de "strings" contendo os dias da semana que criança virá.
