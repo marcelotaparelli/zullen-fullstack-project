@@ -51,16 +51,19 @@ Alterei a propriedade "dias" do tipo "integer" (que antes armazenava o numero de
 
 <img src="diasDaSemana.jpg">
 
-Para o calendário estou testando o repositório do <a href="https://github.com/danheron/Heron.MudCalendar/">danheron</a> e já adicionei a lógica para as crianças aparecerem no calendário de acordo com o turno cadastrado:
+Para o calendário estou usando o repositório do <a href="https://github.com/danheron/Heron.MudCalendar/">danheron</a> e já adicionei a lógica para as crianças aparecerem no calendário de acordo com o turno cadastrado:
 
 <img src="calendario.jpg">
 
-E agora também de acordo com o dia da semana:
+de acordo com o dia da semana:
 
 <img src="dias.jpg">
 
-<li>O próximo passo será reajustar o model para possibilitar o cadastro de crianças com diárias avulsas</li>
+e também para diárias avulsas
 
+<img src="avulso.jpg">
+
+<li> o próximo passo será fazer uma página para a administração financeira que mostra o valor que cada pai precisa pagar e a receita total</li>
 
 
 
