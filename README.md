@@ -1,5 +1,5 @@
 # zullen-fullstack-project
-<h3>Projeto Fullstack (CRUD) para um contraturno escolar feito em .NET, Angular e, posteriormente, em Blazor. (repositório privado)</h3>
+<h3>Descrição do Projeto Fullstack para um contraturno escolar feito em .NET, Angular e, posteriormente, em Blazor.</h3>
 
 Primeiramente, busquei ver as necessidades da usuária do sistema e quais informações seriam mais relevantes para armazenar. Com isso, pude definir meu Modelo/Classe/Entidade e suas propriedades.
 
